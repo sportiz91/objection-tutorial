@@ -16,7 +16,7 @@
 
   Además de client, connection, pool, migrations y el knexSnakeCaseMappers, podemos especificar una seeds property.
   Seeds -> initial data o directorio donde guardamos los files que crean la initial data. Esto es útil para local development:
-  Cuanto más crezca nuestro proyecto, no queremos insertar manualmente toda la data todo el tiempo. Otro caso: muchas veces
+  Cuanto más crezca nuestro proyecto, no queremos insertar msanualmente toda la data todo el tiempo. Otro caso: muchas veces
   jugamos un poco con la db y entonces luego queremos dropearla y volver a levantarla con example data. 
   Para todo eso sirve la seeds property.
 
